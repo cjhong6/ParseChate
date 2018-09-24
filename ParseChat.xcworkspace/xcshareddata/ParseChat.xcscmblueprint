@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27CFFF7651CA912984ADA28BAFB367004B42E7B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC68CE75AFB92E5E46FB5E26370EE9AE15C9E8E9" : 9223372036854775807,
+    "27CFFF7651CA912984ADA28BAFB367004B42E7B1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D4B95072-A8BF-442E-B444-BA3C69EB6C32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC68CE75AFB92E5E46FB5E26370EE9AE15C9E8E9" : "",
+    "27CFFF7651CA912984ADA28BAFB367004B42E7B1" : "ParseChat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ParseChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ParseChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cjhong6\/ParseChate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27CFFF7651CA912984ADA28BAFB367004B42E7B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cjhong6\/iWill-Tip.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC68CE75AFB92E5E46FB5E26370EE9AE15C9E8E9"
+    }
+  ]
+}
